@@ -1,4 +1,4 @@
-# logging-service
+# @nuxt4-layers/logging-service
 
 > **AI-Driven Development**
 >
@@ -11,3 +11,4 @@
 > All contributions are subject to the same engineering standards, quality controls and repository policies, regardless of origin. See the [AI development methodology](https://github.com/nuxt4-layers/platform-architecture/blob/master/AI_DEVELOPMENT.md).
 
 This repository is part of the Nuxt 4 Layers ecosystem.
+
